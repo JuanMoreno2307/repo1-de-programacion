@@ -1,3 +1,4 @@
+Este cambio fue hecho directamente desde la web de GitHub. ¡Qué cool!
 este es el reingreso de mi primer proyecti
 
 Juan Esteban Moreno Miranda 

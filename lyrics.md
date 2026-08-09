@@ -72,7 +72,7 @@ El grupo es conocido por temas como "Ámame", "Brujería", "Falsaría", "Un vera
 "Azuquita pa'l café", "La fiesta de Pilito", "El menú", "No hay cama pa' tanta gente", 
 "Me liberé", "A la reina", "Los tenis", "Julia", "Ojos chinos", "Y no hago más na'", entre otras
 
-[El gran combo de puerto rico](./imagenes/elgrancombo.webp)
+[El gran combo de puerto rico] (./imagenes/elgrancombo.webp)
 
 
 ## ***DATOS ESPECIALES DE LA CANCION***

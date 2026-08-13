@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=0IthOWcel6o&pp=ygUYbWVqb3JlcyBqdWdhZGFzIGRlIG1lc
 
 luchito https://forbes.co/_next/image?url=https%3A%2F%2Fcdn.forbes.co%2F2026%2F06%2FLUIS-DIAZ.jpg.jpeg&w=1920&q=75
 
-![Luis Diaz](./imagenes/LUIS-DIAZ)
+![Luis Diaz](./imagenes/LUIS-DIAZ.webp)
 ## 🌈 Emojis con intención
 
 Hoy me siento: << 😒/ 🤖 / 🚀 etc.>>
